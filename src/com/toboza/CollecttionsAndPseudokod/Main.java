@@ -1,4 +1,4 @@
-package com.toboza;
+package com.toboza.CollecttionsAndPseudokod;
 
 public class Main {
 

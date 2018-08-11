@@ -1,4 +1,4 @@
-package com.toboza;
+package com.toboza.CollecttionsAndPseudokod;
 
 import java.security.PublicKey;
 import java.util.HashMap;

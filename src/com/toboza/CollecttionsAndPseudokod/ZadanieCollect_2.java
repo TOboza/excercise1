@@ -1,4 +1,4 @@
-package com.toboza;
+package com.toboza.CollecttionsAndPseudokod;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -9,7 +9,6 @@ public class ZadanieCollect_2 {
     public static void main(String[] args) {
 
         bazaPracownikow();
-
 
     }
     public static void bazaPracownikow() {
