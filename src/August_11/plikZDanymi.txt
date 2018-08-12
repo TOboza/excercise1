@@ -1,0 +1,3 @@
+Teresa;Bomba;Ksiegowa;1902
+Barbara;Rabarbar;Kucharka;1903
+Bogumila;Alvarez;Kucharka;1999
