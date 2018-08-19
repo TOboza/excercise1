@@ -11,7 +11,7 @@ public class Main {
         Searching searching = new Searching();
     //    System.out.println(listaOsob[searching.searchAge(listaOsob,22,0,listaOsob.length-1)]  );
 
-        System.out.println(searching.searchAgeIfNotOnlyOne(22,listaOsob).toString());
+       // System.out.println(searching.searchAgeIfNotOnlyOne(22,listaOsob).toString());
 
 
 
